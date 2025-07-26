@@ -1,5 +1,3 @@
-# Student-Performance-Data-Analysis-Capstone-Project
-
 # 🎓 Student Performance Data Analysis Capstone Project
 
 This project is a complete end-to-end data analysis case study focused on understanding student academic performance using Python, SQL, and Power BI.
